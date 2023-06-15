@@ -108,8 +108,6 @@ After the X or checkmark symbol, the name of the Rental should be displayed. I s
 
  Jump to: [Page Top](#codesummaryliveproject), [Back End Stories](#back-end-stories), [Front End Stories](#back-end-stories)
 
-
- # Version Control: 
  
 
 # Summary 
